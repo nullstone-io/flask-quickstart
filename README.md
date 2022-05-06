@@ -3,7 +3,7 @@
 This is a Python Flask Quickstart for [Nullstone](https://nullstone.io).
 This is based on the Flask official [quickstart guide](https://flask.palletsprojects.com/en/2.1.x/quickstart/).
 
-This uses the Nullstone official [Flask](https://hub.docker.com/repository/docker/nullstone/flask) image.
+This uses the Nullstone official [nullstone/flask](https://hub.docker.com/repository/docker/nullstone/flask) image.
 
 ## How to launch via Nullstone
 
