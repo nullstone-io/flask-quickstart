@@ -10,7 +10,7 @@ apps:
     vars:
       cpu: 256
       memory: 512
-      port: 9000
+      port: 80
     capabilities:
       - module: nullstone/python-cookies
       - module: nullstone/aws-load-balancer
