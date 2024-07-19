@@ -11,6 +11,8 @@ apps:
       cpu: 256
       memory: 512
       port: 80
+    environment:
+      TEST1: value
     capabilities:
       - module: nullstone/python-cookies
       - module: nullstone/aws-load-balancer
